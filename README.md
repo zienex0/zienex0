@@ -31,7 +31,7 @@ I build modern mobile applications with Flutter. I specialize in cross-platform 
 
 ### 🌟 What I Offer
 
-- ✅ **Production-ready apps** - Real-world user experience
+- ✅ **Problem-solving apps** - Real-world user experience
 - ⚡ **Flutter expertise** - From MVP to scalable solutions
 - 🎨 **UI** - Material/Cupertino Design compliance
 - 🔄 **Cross-platform** - iOS & Android from single codebase
