@@ -22,10 +22,17 @@ I build modern mobile applications with Flutter. I specialize in cross-platform 
 
 **🎯 Key Features:**
 - Complete student and instructor management
-- Automatic scheduling for practical driving lessons  
-- Faster schedule distribution system
-- Progress dashboard with learning analytics
-- Training vehicle tracking and management
+- Automatic scheduling with options to prioritize some students/instructors and add/decrease desired amount of hours for practical driving lessons for selected weekly schedule
+- Much faster schedule distribution system (takes only 1 click to generate a whole schedule for a week!)
+- Student and instructor availabilities conflict checks
+- Flexbile and very customizable time availabilities and date windows (also with validation dates for future and past)
+- Student course payments history
+- Student course progresses and lesson history
+- Flexible driving lessons creation and adjustments
+- Weekly schedules with simple statistics dashboard
+- Automatic preparation of SMS with schedule and redirect to native iOS/Android messages app
+  
+*and more*
 
 *🔒 Note: This is a private commercial project - code repository not publicly available*
 
